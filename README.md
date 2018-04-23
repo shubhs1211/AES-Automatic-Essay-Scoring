@@ -34,7 +34,7 @@ Files:
  
 Data:
 
-1. 'globalenglish_essay_scoring.csv'
+1. 'essay_scoring.csv'
 
 Output folder:
 
